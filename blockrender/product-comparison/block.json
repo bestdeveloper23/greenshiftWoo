@@ -1,0 +1,7 @@
+{
+	"name": "greenshift-blocks/product-comparison",
+    "title": "Product comparison",
+	"category":"greenShiftWoo",
+	"textdomain": "greenshiftwoo",
+	"editorStyle": "greenShiftWoo-block-css"
+}
